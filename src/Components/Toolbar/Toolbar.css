@@ -1,0 +1,49 @@
+.Toolbar {
+    background-color: slategrey; 
+    opacity: 0.8;
+    position: fixed;
+    top:0;
+    right:0;
+    left:0;
+}
+
+.Toolbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.Toolbar li {
+    float: left;
+}
+
+.Toolbar  li .A {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+.Toolbar li .A:hover {
+    background-color: #111;
+}
+.Toolbar .Right {
+    float: right;
+}
+
+
+.Toolbar .Logo {
+    width: 50px;
+    height: 25px;
+    margin-left:40%;
+    animation: spin 4s infinite linear; 
+}
+
+@keyframes spin { 
+    from {transform:rotate(0deg);}
+    to {transform:rotate(180deg);}
+}
+
+

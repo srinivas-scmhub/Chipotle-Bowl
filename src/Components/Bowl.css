@@ -1,0 +1,19 @@
+.Bowl {
+    width: 50%;
+    height: 50px;
+    background: linear-gradient(white, black);
+    border-radius: 0 0 80px 80px;
+    margin:0 auto 2% auto;
+    text-align: center;
+    
+}
+
+.Style {
+    text-align: center;
+    display:flex;
+    flex-flow:row wrap;
+    align-items: center;
+    align-content: center;
+    margin: 40px 25% 0 25%;
+}
+

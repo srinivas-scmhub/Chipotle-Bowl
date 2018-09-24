@@ -1,0 +1,62 @@
+
+/* .Whiterice { 
+    width:50%;
+    height:5%;
+    background: linear-gradient(white, rgb(207, 212, 214));
+    border-radius: 10px 10px;
+    border:1px solid rgb(27, 21, 13);
+    text-align: center;
+    margin:.5% auto;
+}*/
+/* .Ingredient{
+margin:0%;
+} */
+.Whiterice{
+    box-sizing: border-box;
+    background-image: url('https://d5bzqyuki558t.cloudfront.net/cms-assets/system/asset_versions/attachments/000/000/211/original/_0006_WhiteRIce.png?1428411805');
+    background-position: center;
+    border-radius: 5px 5px;
+    background-size: cover;
+    width:100px;
+    height:25px;
+    margin: .5% 0;
+    color: rgb(145, 147, 148);
+    text-align: center;
+    padding-top:5px;
+}
+.Brownrice{
+    box-sizing: border-box;
+    background-image: url('https://d5bzqyuki558t.cloudfront.net/cms-assets/system/asset_versions/attachments/000/000/210/original/_0005_BrownRice.png?1428411784');
+    background-position: center;
+    border-radius: 5px 5px;
+    background-size: cover;
+    width:100px;
+    height:25px;
+    margin: .5% 0;
+    color: #86592d;
+    font-weight: bold;
+    text-align: center;
+    padding-top:5px;
+}
+.Beans{
+    box-sizing: border-box;
+    background-image: url('https://d5bzqyuki558t.cloudfront.net/cms-assets/system/asset_versions/attachments/000/000/373/original/_0008_PintoBeans.png?1428678980');
+    background-position: center;
+    border-radius: 5px 5px;
+    background-size: cover;
+    width:80px;
+    height:25px;
+    margin: .5% 0;
+    color: rgb(145, 147, 148);
+    text-align: center;
+    padding-top:5px;
+}
+/* .Brownrice { 
+    width:50%;
+    height:5%;
+    background: linear-gradient(brown, rgb(223, 201, 176));
+    border-radius: 10px 10px;
+    text-align: center;
+    border:1px solid rgb(22, 17, 12);
+    margin:.5% auto;
+}*/
